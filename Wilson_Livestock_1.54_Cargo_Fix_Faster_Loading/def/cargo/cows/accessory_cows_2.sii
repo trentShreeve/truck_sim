@@ -1,0 +1,10 @@
+SiiNunit
+{
+accessory_cargo_data : .cows_2
+{
+    model: "/vehicle/pinga_trailers/wilson_live/cargo.pmd"
+    lods[]: "/vehicle/pinga_trailers/wilson_live/cargo.pmd"
+    variant: ch_2
+    look: default
+}
+}

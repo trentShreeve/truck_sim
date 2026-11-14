@@ -1,0 +1,13 @@
+cargo_data: cargo.cows
+{
+	name: "@@Cows@@"
+	fragility: 0.6
+	valuable: true
+	group[]: livestock
+	volume: 1
+	mass: 200
+	unit_reward_per_km: 0.1
+	unit_load_time: 30
+	body_types[]: livestock
+	overweight: true
+}

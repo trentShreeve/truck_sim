@@ -1,0 +1,11 @@
+SiiNunit
+{
+mod_package : .hopper_cargo_patch
+{
+    package_version: "1.1"
+    display_name: "Additional Hopper Cargo"
+    author: "Local patch"
+    category[]: "trailer"
+    description: "Adds more bulk cargo to the grain hopper."
+}
+}

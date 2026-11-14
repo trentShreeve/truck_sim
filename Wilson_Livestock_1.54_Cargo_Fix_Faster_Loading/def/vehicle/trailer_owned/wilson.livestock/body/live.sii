@@ -1,0 +1,33 @@
+SiiNunit
+{
+accessory_trailer_body_data : live.wilson.livestock.body
+{
+	name: "@@Livestock@@"
+	price: 10000
+	unlock: 0
+	icon: "body/scs_flatbed/curtain"
+
+	# 26' x 5.10" x 55"
+	# http://www.fontaineheavyhaul.com/lowbed_trailer_magnitude_55H_MBMD.html
+
+	size: (2.5146, 26, 8.382)		# width, height, length (internal size of the body)
+	total_size: (2.5908, 4.1148, 8.5344)	# width, height, length (size of the body + chassis)
+
+	volume: 57.45		# 2029 cft
+	body_type: livestockp
+	cargo_loading_methods[]: custom
+	cargo_custom_loads[]: .wilson_livestock_cows_load
+
+
+	mass: 544.4	# 1200 lb
+
+
+	detail_model: "/vehicle/pinga_trailers/wilson_live/trailer.pmd"
+	model: "/vehicle/pinga_trailers/wilson_live/trailer.pmd"
+	collision: "/vehicle/pinga_trailers/wilson_live/trailer.pmc"
+	variant: body
+	look: default
+	
+
+}
+}

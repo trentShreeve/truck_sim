@@ -1,0 +1,11 @@
+SiiNunit
+{
+mod_package : .wilson_livestock_154_patch
+{
+    package_version: "1.1"
+    display_name: "Wilson Livestock 1.54+ Cargo Fix + Faster Loading"
+    author: "Local patch"
+    category[]: "trailer"
+    description: "Restores Wilson livestock cargo models under the ATS 1.54+ cargo system and reduces cattle loading time to 30 seconds per unit."
+}
+}

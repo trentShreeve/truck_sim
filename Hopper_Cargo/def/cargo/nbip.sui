@@ -1,0 +1,33 @@
+cargo_data: cargo.nbip
+{
+name: "@@Iowa Premium® Black Angus@@"
+fragility: 0.60
+volume: 3
+mass: 700.00
+unit_reward_per_km: 0.800
+unit_load_time: 90.00
+adr_class: 0
+prob_coef: 10.00
+valuable: true
+
+
+body_types[]: livestock
+body_types[]: livestockp
+
+        body_types[]: wils53a
+	body_types[]: wils53au
+
+	body_types[]: wils53b
+	body_types[]: wils53bu
+	
+	body_types[]: wils53c
+	body_types[]: wils53cu
+
+	body_types[]: wils53d
+	body_types[]: wils53du
+
+
+
+group[]: livestock
+
+}

@@ -1,0 +1,13 @@
+cargo_data: cargo.salt_b
+{
+	name: "@@cn_salt@@"
+	fragility: 0
+	group[]: bulk
+	volume: 0.5
+	mass: 789.26
+	unit_reward_per_km: 0.77
+	unit_load_time: 117
+	body_types[]: hopper
+	body_types[]: dumper
+	
+}

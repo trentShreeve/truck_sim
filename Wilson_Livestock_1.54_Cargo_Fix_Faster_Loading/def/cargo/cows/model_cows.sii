@@ -1,0 +1,15 @@
+SiiNunit
+{
+cargo_model_match : .cows
+{
+	    data_path[]: "/def/cargo/cows/accessory_cows_2.sii"
+    dimensions: (2.5146, 2.50, 8.382)
+    loading_method: custom
+    lashing_method: none
+    lashing_gear_type: none
+}
+    dimensions: (2.5146, 2.50, 8.382)
+    loading_method: custom
+    lashing_method: none
+    lashing_gear_type: none
+}

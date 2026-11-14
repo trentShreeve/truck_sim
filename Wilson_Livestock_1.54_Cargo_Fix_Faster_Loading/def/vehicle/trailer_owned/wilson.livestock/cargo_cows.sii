@@ -1,0 +1,9 @@
+SiiNunit
+{
+cargo_custom_load_data_u : .wilson_livestock_cows_load
+{
+    cargo_token: cows
+    offset: (0.0, 0.0, 0.0)
+    rotation: (0.0, 0.0, 0.0)
+}
+}
